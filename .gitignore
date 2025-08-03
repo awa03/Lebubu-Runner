@@ -98,3 +98,9 @@ InitTestScene*.unity*
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 Assets/AssetStoreAssets/Proxy Games/Stylized Nature Kit Lite/Misc/HDRI.hdr
+
+# Large files
+*.hdr
+*.blend
+*.blend1
+Assets/AssetStoreAssets/
