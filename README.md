@@ -11,6 +11,7 @@ None of the code was stolen from the internet, all of it was gathered from resea
 I could not find any friends to record the gameplay, since everyone has now left, so I hope these supplemental screenshots are exceptable. 
 
 
+Audio wasnt recorded, but is present in game
+https://github.com/user-attachments/assets/e5a2cf57-81ca-44c2-88ff-0cc90e706766
 
-Uploading Untitled design.mp4…
 
