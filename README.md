@@ -9,6 +9,7 @@ For this game I created a horror game, around lebubu's. This was a terrible idea
 
 I could not find any friends to record the gameplay, since everyone has now left, so I hope this gameplay is acceptable.
 
+Its also worth mentioning, the audio is based on proximity to the lebubu in game.
 
 Audio wasnt recorded, but is present in game
 https://github.com/user-attachments/assets/e5a2cf57-81ca-44c2-88ff-0cc90e706766
